@@ -8,10 +8,7 @@
 	display:flex;
     justify-content:space-between;
 	flex-wrap:wrap;
-	text-size:100px;
-	
-	
-	
+	text-size:100px;	
 }
 .box1{
 	    background-color:green;
